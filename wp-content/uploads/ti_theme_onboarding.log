@@ -1,0 +1,16 @@
+[18/Mar/2020:07:17:29] (ℹ️): WordPress Instance Info:
+[18/Mar/2020:07:17:29] (ℹ️): Home URL : http://localhost/wordpress
+[18/Mar/2020:07:17:29] (ℹ️): Site URL : http://localhost/wordpress
+[18/Mar/2020:07:17:29] (ℹ️): WordPress Version : 5.3.2
+[18/Mar/2020:07:17:29] (ℹ️): Onboarding Version : 1.8.2
+[18/Mar/2020:07:17:29] (ℹ️): Multisite : No
+[18/Mar/2020:07:17:29] (ℹ️): Server Info : Apache/2.4.29 (Ubuntu)
+[18/Mar/2020:07:17:29] (ℹ️): PHP Version : 7.2.24-0ubuntu0.18.04.2
+[18/Mar/2020:07:17:29] (ℹ️): HTTPS : No
+[18/Mar/2020:07:17:29] (ℹ️): PHP Max Execution Time : 30
+[18/Mar/2020:07:17:29] (ℹ️): PHP Max Input Vars : 1000
+[18/Mar/2020:07:17:29] (ℹ️): Max Upload Size : 2097152
+[18/Mar/2020:07:17:29] (ℹ️): Plugins:
+[18/Mar/2020:07:17:29] (ℹ️): [PLUGIN] Jetpack by WordPress.com : v8.3 (Automattic)
+[18/Mar/2020:07:17:29] (ℹ️): [PLUGIN] WooCommerce Services : v1.22.4 (Automattic)
+[18/Mar/2020:07:17:29] (ℹ️): [PLUGIN] WooCommerce : v4.0.0 (Automattic)

@@ -1,0 +1,23 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpress
+Data file = /var/www/html/wordpress/wp-content/uploads/2020/03/airi-demo-content.zip
+Widget file = /var/www/html/wordpress/wp-content/uploads/2020/03/airi-demo-content-1.zip
+Customizer file = /var/www/html/wordpress/wp-content/uploads/2020/03/airi-demo-content-2.zip
+Redux files:
+not defined!
+
+---Importing widgets---
+Error: Widget import data could not be read. Please try a different file.
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---pt-ocdi/after_import---
+
